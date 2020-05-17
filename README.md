@@ -1,3 +1,4 @@
 # somethingnew
-This repository is only a placeholder.
-This file is edited on May 17, 2020.
+This repository is a learning initiative.
+The plan is to implement the fundamental data structures and algorithms in C++.
+The list below covers the implementation items.
