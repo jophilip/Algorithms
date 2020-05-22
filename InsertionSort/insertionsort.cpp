@@ -25,7 +25,6 @@ void displayContent(int arr[], int n)
     cout << endl; 
 }  
   
-/* Driver code */
 int test_insertionSort()  
 {  
     int arr[] = { 131, 23, 235, 5, 69, 1, 45, 2 }; 
