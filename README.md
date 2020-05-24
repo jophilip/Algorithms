@@ -6,4 +6,5 @@ The list below covers the implementation items.
 
 1. Binary Search
 2. Jump Search
-3. Insertion Sorting
+3. Insertion Sort
+4. Selection Sort
