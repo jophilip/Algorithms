@@ -23,7 +23,7 @@ void selectionSort(int arr[], int n)
 	} 
 } 
 
-void print(int arr[], int size) 
+void displayContent(int arr[], int size) 
 { 
 	int i; 
 	for (i=0; i < size; i++) 
@@ -31,14 +31,14 @@ void print(int arr[], int size)
 	cout << endl; 
 } 
 
-int test_selectionsort() 
+int test_selectionSort() 
 { 
 	int arr[] = {24, 5, 112, 2, 31, 1}; 
 	int n = sizeof(arr)/sizeof(arr[0]); 
 	cout << "Unsorted array: \n";
-	print(arr, n);
+	displayContent(arr, n);
 	selectionSort(arr, n); 
 	cout << "Sorted array: \n"; 
-	print(arr, n); 
+	displayContent(arr, n); 
 	return 0; 
 } 
