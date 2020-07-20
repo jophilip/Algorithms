@@ -8,3 +8,4 @@ The list below covers the implementation items.
 2. Jump Search
 3. Insertion Sort
 4. Selection Sort
+5. Merge Sort
