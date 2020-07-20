@@ -55,4 +55,5 @@ int test_mergesort() {
    for(int i = 0; i<10; i++)
       cout << arr[i] << " ";
    cout << endl;
+   return 0;
 }
